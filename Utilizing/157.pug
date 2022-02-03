@@ -1,0 +1,24 @@
+Html 
+    head 
+        title Pug example page 
+        style.
+            body {
+                color: lightskyblue;
+            }
+
+            h1 {
+                color: blue;
+            }
+        script.
+            let name = prompt("name","");
+            alert(name);
+        body 
+            #header 
+            h1 Hello pug module
+            h2 Nice to meet you 
+            .url 
+            a(href="https://github.com/pugjs/pug", data-set='multiple Attribute') Github for pug
+            ul 
+                li Item A
+                li Item B
+                li Item C
