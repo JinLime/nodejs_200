@@ -203,3 +203,20 @@
 [184. socket.io ② - 서버](https://github.com/JinLime/nodejs_200/blob/master/Utilizing/184.js)  
 [185. socket.io ③ - 이벤트 <---->](https://github.com/JinLime/nodejs_200/blob/master/Utilizing/185.js)
 [ 185_html](https://github.com/JinLime/nodejs_200/blob/master/Utilizing/185_socket_event.html)
+
+## <활용> 121 ~
+
+[187. 크롤러를 활용한 뉴스 이메일 발송 시스템 ①](https://github.com/JinLime/nodejs_200/blob/master/Working_level/187.js)  
+[188. 크롤러를 활용한 뉴스 이메일 발송 시스템 ②](https://github.com/JinLime/nodejs_200/blob/master/Working_level/188.js)  
+[189. 크롤러를 활용한 뉴스 이메일 발송 시스템 ③](https://github.com/JinLime/nodejs_200/blob/master/Working_level/189.js)  
+[190. MySQL 모듈을 활용한 게시판 구현 ①- 모듈 소개](https://github.com/JinLime/nodejs_200/blob/master/Working_level/190.js)  
+[191. MySQL 모듈을 활용한 게시판 구현 ②- Overview](https://github.com/JinLime/nodejs_200/blob/master/Working_level/191.js)  
+[192. MySQL 모듈을 활용한 게시판 구현 ③- 조회 페이지](https://github.com/JinLime/nodejs_200/blob/master/Working_level/192.js)  
+[193. MySQL 모듈을 활용한 게시판 구현 ④- 데이터 추가](https://github.com/JinLime/nodejs_200/blob/master/Working_level/193.js)  
+[194. MySQL 모듈을 활용한 게시판 구현 ⑤- 데이터 수정](https://github.com/JinLime/nodejs_200/blob/master/Working_level/194.js)  
+[195. MySQL 모듈을 활용한 게시판 구현 ⑥- 데이터 삭제](https://github.com/JinLime/nodejs_200/blob/master/Working_level/195.js)  
+[196. MySQL 모듈을 활용한 게시판 구현 ⑦- 전체 코드](https://github.com/JinLime/nodejs_200/blob/master/Working_level/196.js)  
+[197. 텔레그램 설치](https://github.com/JinLime/nodejs_200/blob/master/Working_level/197.js)  
+[198. 텔레그램 봇 생성](https://github.com/JinLime/nodejs_200/blob/master/Working_level/198.js)  
+[199. 텔레그램 봇 라이브러리 설치](https://github.com/JinLime/nodejs_200/blob/master/Working_level/199.js)  
+[200. 텔레그램 봇 애플리케이션 띄우기](https://github.com/JinLime/nodejs_200/blob/master/Working_level/200.js)
