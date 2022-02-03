@@ -126,7 +126,7 @@
 [119. exports](https://github.com/JinLime/nodejs_200/blob/master/Advanced/119.js)  
 [120. require](https://github.com/JinLime/nodejs_200/blob/master/Advanced/120.js)
 
-## <활용> 121 ~
+## <활용> 121 ~ 185
 
 [121. API 읽는 법](https://github.com/JinLime/nodejs_200/blob/master/Utilizing/121.js)  
 [122. 비동기(Async)와 동기(Sync)](https://github.com/JinLime/nodejs_200/blob/master/Utilizing/122.js)  
@@ -204,7 +204,7 @@
 [185. socket.io ③ - 이벤트 <---->](https://github.com/JinLime/nodejs_200/blob/master/Utilizing/185.js)
 [ 185_html](https://github.com/JinLime/nodejs_200/blob/master/Utilizing/185_socket_event.html)
 
-## <활용> 121 ~
+## <실무> 187 ~ 200
 
 [187. 크롤러를 활용한 뉴스 이메일 발송 시스템 ①](https://github.com/JinLime/nodejs_200/blob/master/Working_level/187.js)  
 [188. 크롤러를 활용한 뉴스 이메일 발송 시스템 ②](https://github.com/JinLime/nodejs_200/blob/master/Working_level/188.js)  
