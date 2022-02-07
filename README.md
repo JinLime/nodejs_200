@@ -79,7 +79,7 @@
 [075. 정규 표현식(regexp) .점](https://github.com/JinLime/nodejs_200/blob/master/Intermediate/075.js)  
 [076. 정규 표현식(regexp) {0, 1} 중괄호](https://github.com/JinLime/nodejs_200/blob/master/Intermediate/076.js)  
 [077. 정규 표현식(regexp) []](https://github.com/JinLime/nodejs_200/blob/master/Intermediate/077.js)  
-[078. 정규 표현식(regexp) .](https://github.com/JinLime/nodejs_200/blob/master/Intermediate/078.js)  
+[078. 정규 표현식(regexp) .math](https://github.com/JinLime/nodejs_200/blob/master/Intermediate/078.js)  
 [079. 정기적으로 실행하기 setInterval(func, milsec)](https://github.com/JinLime/nodejs_200/blob/master/Intermediate/079.js)  
 [080. 몇 초 후에 실행하기 setTimeout(func, milsec)](https://github.com/JinLime/nodejs_200/blob/master/Intermediate/080.js)  
 [081. 정기적으로 실행 취소하기 clearInterval(func)](https://github.com/JinLime/nodejs_200/blob/master/Intermediate/081.js)  
